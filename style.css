@@ -1,0 +1,39 @@
+body{
+    background-color: chartreuse;
+}
+#span_1{
+    font-family:'Ubuntu', sans-serif;
+}
+#flag{
+    border-radius: 5px;
+}
+#show_button{
+    height: 50px;
+    width: 200px;
+    background-color: cyan;
+    border-radius: 5px;
+    font-family: 'Girassol', cursive;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px black;
+}
+#span_1{
+    font-family: 'Ubuntu', sans-serif;
+}
+#waaa{
+    font-family: 'Ubuntu', sans-serif;
+}
+#ambulance_button{
+    height: 50px;
+    width: 200px;
+    background-color: red;
+    border-radius: 5px;
+    font-family:'Girassol', cursive; ;
+    font-size: 20px;
+    box-shadow: 5px 5px 10px red;
+}
+#span_2{
+font-family:'Ubuntu', sans-serif;
+}
+#made_by{
+    font-family:'Ubuntu', sans-serif ;
+}
